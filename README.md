@@ -23,7 +23,7 @@ $ npm run build
 $ npm run dev
 ```
 
-## Translating with Babel (on watch mode)
+## Translating with Babel (on watch)
 ```
 npm run build
 ```
