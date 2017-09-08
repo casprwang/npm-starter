@@ -2,7 +2,7 @@
   "name": "template",
   "version": "1.0.0",
   "description": "template",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest lib",
     "build": "babel . --ignore node_modules lib --watch --out-dir lib",
