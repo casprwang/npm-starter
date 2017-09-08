@@ -9,7 +9,7 @@ $ git clone https://github.com/wangsongiam/npm-starter.git <project-name>
 $ cd <project-name>
 ```
 
-## Entry point
+## Entry points
 ### Development
 ```
 ./index.js
