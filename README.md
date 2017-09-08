@@ -3,7 +3,7 @@
 
 ![](https://user-images.githubusercontent.com/19645990/30192403-8e6039d6-9415-11e7-8aaf-a56808802bf0.png)
 
-## Install
+## Installation
 ```
 $ git clone https://github.com/wangsongiam/npm-starter.git <project-name>
 $ cd <project-name>
