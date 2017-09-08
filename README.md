@@ -19,13 +19,14 @@ $ cd <project-name>
 ./lib/index.js
 ```
 
-## Testing (on watch)
+## Scripts
+### Testing (on watch)
 ```
 $ npm run build
 $ npm run dev
 ```
 
-## Translating with Babel (on watch)
+### Translating with Babel (on watch)
 ```
 npm run build
 ```
