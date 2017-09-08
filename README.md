@@ -28,5 +28,5 @@ $ npm run dev
 
 ### Translating with Babel (on watch)
 ```
-npm run build
+$ npm run build
 ```
