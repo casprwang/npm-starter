@@ -11,7 +11,6 @@ $ cd <project-name>
 ### Development
 ```
 ./index.js
-
 ```
 ### Publish
 ```
