@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest lib",
+    "build": "babel . --ignore node_modules lib --watch --out-dir lib",
+    "dev": "jest lib --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Auther",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "jest": "^21.0.1"
+  }
+}
